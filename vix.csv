@@ -1,0 +1,14 @@
+Anova: Single Factor,,,,,,
+,,,,,,
+SUMMARY,,,,,,
+Groups,Count,Sum,Average,Variance,,
+Column 1,4057,4183.013864,1.031060849,0.186148963,,
+Column 2,1723,1685.170445,0.978044367,0.183180615,,
+,,,,,,
+,,,,,,
+ANOVA,,,,,,
+Source of Variation,SS,df,MS,F,P-value,F crit
+Between Groups,3.399258959,1,3.399258959,18.34815819,1.86981E-05,3.843068724
+Within Groups,1070.457212,5778,0.185264315,,,
+,,,,,,
+Total,1073.856471,5779,,,,
